@@ -1,19 +1,43 @@
 ## Web Framework
 
 Prototyping: Streamlit
-Production: TBC
+
+Production: TBC (Flask/NextJs/Svelte)
+
+## Backend
+
+When prototping can host on Streamlit. Later can host on Vercel/AWS/Others?
+
+## Data Source
+
+Lichess API: [https://lichess.org/api]
+
+Chess.com API: [https://www.chess.com/news/view/published-data-api]
 
 ## Info to Show
 
 When user enters username show following info:
 
-- Basic Stat (Ratings, win/loss rate etc.) [easy]
-- Commonly played openings [hard]
-- Play Style [impossible]
+- Basic Stat [Easy]
+    - Performance against opponents of different ratings
+    - Win/loss rate
+    - Ratings progression
+    - Losing method % (Resigns, Checkmates, etc.)
+    - Info about different time controls
+    - Histogram of game durations
+- Advanced Stat [Hard]
+    - Commonly played openings
+    - Win rate for each opening + black/white
+    - Allow users to add mutiple accounts and analyse as a whole
+- Challenging [Impossible]
+    - Heatmap to show where player plays around during diff parts of game
+    - Play Style (Aggressive, Defensive, wtv)
 
-More info can be added later
+We will add these features one by one.
 
-## Preloaded Info
+## Database Info
 
-To show users how the info will be lie we can show the stats of big players like magnus, hikaru 
+Data to Store:
+- Stats of popular players like Magnus and Hikaru (Demo)
+- Openings Database
 
