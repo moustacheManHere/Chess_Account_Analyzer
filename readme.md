@@ -18,7 +18,7 @@ Please follow our [Code of Conduct](CODE_OF_CONDUCT.md) and [Contributing Guidel
 
 ## License
 
-This project is licensed under the MIT License
+This project is licensed under the Creative Commons License
 
 ## Acknowledgments
 
