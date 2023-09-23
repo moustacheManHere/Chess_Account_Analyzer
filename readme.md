@@ -2,7 +2,7 @@
 
 Welcome to the Chess Account Analyzer Web App! This open-source project allows users to analyze their chess activity on popular platforms like Lichess and Chess.com. By simply inputting their Lichess or Chess.com usernames, users can access a variety of statistics and insights about their games.
 
-Visit our website at (coming soon...)
+Visit our website at [chessaccount.streamlit.app](https://chessaccount.streamlit.app)
 
 ## Contributing
 
