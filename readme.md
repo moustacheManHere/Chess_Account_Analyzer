@@ -18,7 +18,7 @@ Please follow our [Code of Conduct](CODE_OF_CONDUCT.md) and [Contributing Guidel
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License
 
 ## Acknowledgments
 
@@ -26,7 +26,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact us at [your@email.com](mailto:your@email.com).
+If you have any questions or suggestions, feel free to contact us at justforthegreatergood@gmail.com
 
 Happy chess analysis! 🎉
 
