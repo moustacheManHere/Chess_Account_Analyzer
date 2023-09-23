@@ -32,6 +32,7 @@ Happy chess analysis! 🎉
 
 Feel free to analze your games with this tool!
 
+Please star this repo if you appreciate our work!
 ---
 
 **Disclaimer**: This project is not affiliated with or endorsed by Lichess or Chess.com. It is an independent open-source project created for educational and analytical purposes.
