@@ -30,6 +30,7 @@ If you have any questions or suggestions, feel free to contact us at justfortheg
 
 Happy chess analysis! 🎉
 
+Please star this repo if you appreciate our work!
 ---
 
 **Disclaimer**: This project is not affiliated with or endorsed by Lichess or Chess.com. It is an independent open-source project created for educational and analytical purposes.
